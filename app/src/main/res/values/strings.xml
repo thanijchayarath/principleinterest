@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">principleinterest</string>
+    <string name="calculate_principal_and_interest">Calculate principal and interest</string>
+    <string name="calculate">Calculate</string>
+    <string name="clear">Clear</string>
+    <string name="year_only_1_10">Year (only 1-10)</string>
+    <string name="principal">Principal</string>
+    <string name="_0">0</string>
+    <string name="total">Total</string>
+</resources>
